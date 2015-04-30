@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_my_profile">myProfileActivity</string>
+    <string name="title_activity_friend_profile">FriendProfileActivity</string>
+    <string name="title_activity_create_event">CreateEventActivity</string>
+    <string name="title_activity_event_page">EventPageActivity</string>
+
+    <string name="about">About:</string>
+    <string name="score">Score:</string>
+    <string name="hosts">Hosts:</string>
+    <string name="location">Location:</string>
+
+    <string name="home_page_title">foodizz around you</string>
+    <string name="new_event">Create New Event</string>
+
+</resources>

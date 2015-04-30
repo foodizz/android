@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/event_item_profile_pic"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/event_item_pic"/>
+
+    <!--<RelativeLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_toRightOf="@id/event_item_profile_pic"-->
+        <!--android:layout_alignBottom="@+id/event_item_profile_pic"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_alignParentEnd="true"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:gravity="center">-->
+
+        <!--<ImageView android:id="@+id/event_item_location_pic"-->
+            <!--android:layout_width="30dp"-->
+            <!--android:layout_height="30dp"-->
+            <!--android:src="@drawable/location_pic"/>-->
+
+        <!--<TextView android:id="@+id/event_item_location_text"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_toRightOf="@id/event_item_location_pic"-->
+            <!--android:text="250 meters"-->
+            <!--android:textSize="20dp"/>-->
+
+        <!--<ImageView android:id="@+id/event_item_join_pic"-->
+            <!--android:layout_width="30dp"-->
+            <!--android:layout_height="30dp"-->
+            <!--android:layout_alignParentBottom="true"-->
+            <!--android:src="@drawable/join_pic"-->
+            <!--android:layout_below="@+id/event_item_location_pic" />-->
+
+        <!--<TextView android:id="@+id/event_item_join_text"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_toRightOf="@id/event_item_join_pic"-->
+            <!--android:layout_below="@id/event_item_location_text"-->
+            <!--android:paddingTop="30dp"-->
+            <!--android:text="today at 22:00"-->
+            <!--android:textSize="20dp"/>-->
+
+        <!--</RelativeLayout>-->
+
+
+</RelativeLayout>
