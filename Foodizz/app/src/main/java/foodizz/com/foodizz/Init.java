@@ -14,5 +14,7 @@ public class Init {
         Parse.enableLocalDatastore(context);
 
         Parse.initialize(context, "30KElsKAsvLqPCYfX4VLzfgBNyM9GPAXuOo3Mctt", "Ekr15MKudZt6ewfgnC4yDR6AMhZlmSpMYHghUilQ");
+
+        return true;
     }
 }
