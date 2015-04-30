@@ -8,4 +8,10 @@
     <string name="title_activity_friend_profile">FriendProfileActivity</string>
     <string name="title_activity_create_event">CreateEventActivity</string>
     <string name="title_activity_event_page">EventPageActivity</string>
+
+    <string name="about">About:</string>
+    <string name="score">Score:</string>
+    <string name="hosts">Hosts:</string>
+    <string name="location">Location:</string>
+
 </resources>
