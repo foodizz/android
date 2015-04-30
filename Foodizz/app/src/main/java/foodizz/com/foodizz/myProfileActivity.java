@@ -4,6 +4,8 @@ import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ImageView;
+
 
 
 public class myProfileActivity extends ActionBarActivity {
@@ -36,4 +38,15 @@ public class myProfileActivity extends ActionBarActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    public void get_score(int score) {
+
+        ImageView imageView = (ImageView) findViewById(R.id.score1);
+
+
+
+
+    }
+
+}
 }
