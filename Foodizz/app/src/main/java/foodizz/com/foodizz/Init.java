@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 
 import com.parse.Parse;
+import com.parse.ParseObject;
 
 /**
  * Created by ohad on 4/30/15.
